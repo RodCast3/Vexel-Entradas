@@ -21,7 +21,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="ENTRADA \n\nSelecciona el tipo de usuario"
+            android:text="ENTRADA\n\nSelecciona el tipo de usuario"
             android:textSize="45sp"
             android:textAlignment="center"
             android:textColor="@color/white"
