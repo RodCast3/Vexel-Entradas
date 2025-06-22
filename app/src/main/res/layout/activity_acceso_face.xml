@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".AccesoFace"
-    android:background="@color/cardview_dark_background"
+    android:background="@drawable/login_background"
     android:padding="10dp">
 
     <TextView
@@ -43,8 +43,8 @@
         android:layout_height="wrap_content"
         android:text="Regresar"
         android:textSize="35sp"
-        android:backgroundTint="#009688"
-        android:textColor="#FFFFFF"
+        android:backgroundTint="@color/white"
+        android:textColor="#001B2E"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
